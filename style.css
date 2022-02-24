@@ -96,6 +96,6 @@ body {
     transform : rotate(360deg);
 }
 
-.dice-wrapper img:hover {
+/* .dice-wrapper img:hover {
     transform : scale(1.2);
-}
+} */
